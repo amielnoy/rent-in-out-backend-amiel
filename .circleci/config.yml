@@ -104,6 +104,5 @@ workflows:
               only:
                 - main
 
-
     jobs:
       - setup_and_run_playwright_tests_on_production
